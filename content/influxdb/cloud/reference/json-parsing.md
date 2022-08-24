@@ -51,4 +51,4 @@ JSON paths start with a “$.” In the above example, all of the values are at 
 ```
 In this example, the JSON path to the measurement would be `$.device_information.device_type`
 
-The JSON path to the tag would be `$device_information.device_id`.
+The JSON path to the tag would be `$.device_information.device_id`.
